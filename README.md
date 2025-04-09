@@ -1,1 +1,1 @@
-# Long-Short-Term-Memory-LSTM-
+The code is to build a deep learning model using LSTM(Long Short-Term Memory) to perform sentiment analysis on the IMDB movie reviews dataset, classifying them as either positive (1) or negative (0).# Long-Short-Term-Memory-LSTM-
